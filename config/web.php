@@ -5,6 +5,7 @@ $db = require __DIR__ . '/db.php';
 
 $config = [
     'id' => 'link-n-match',
+    'name' => 'Link n Match App Template',
     'basePath' => dirname(__DIR__),
     'bootstrap' => ['log'],
     'aliases' => [
