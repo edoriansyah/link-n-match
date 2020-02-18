@@ -17,6 +17,12 @@ The minimum requirement by this project template that your Web server supports P
 GETTING STARTED
 ---------------
 
+Clone the repository to your Web root
+
+~~~
+git clone https://github.com/edoriansyah/link-n-match.git
+~~~
+
 Update vendor packages
 
 ~~~
